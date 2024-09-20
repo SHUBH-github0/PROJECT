@@ -1,0 +1,7 @@
+<resources>
+    <string name="hint_weightpounds">Enter your weight in pounds</string>
+    <string name="hint_weightkgs">Enter your weight in kgs</string>
+    <string name="hint_heightfeet">Enter your height in feet</string>
+    <string name="hint_heightin">Enter your height in Inches</string>
+    <string name="app_name">BMICalculationApplication</string>
+</resources>
